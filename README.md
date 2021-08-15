@@ -3,7 +3,7 @@
 This project is a computer game for Desktop, developed in Java. 
 
 <kbd>
-  <img src="images/level4.PNG" width="800"/>
+  <img src="images/level4.PNG" width="250"/>
 </kbd>
 
 ## Getting Started
