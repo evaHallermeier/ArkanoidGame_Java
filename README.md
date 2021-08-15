@@ -4,10 +4,10 @@ This project is a computer game for Desktop, developed in Java.
 
 <kbd>
     <img src="images/level1.PNG" width="300"/>
-  <img src="images/level2.PNG" width="350"/>
-   <img src="images/level3.PNG" width="300"/>
-   <img src="images/level4.PNG" width="300"/>
-  <img src="images/finalScreenPNG.PNG" width="300"/>
+    <img src="images/level2.PNG" width="350"/>
+    <img src="images/level3.PNG" width="300"/>
+    <img src="images/level4.PNG" width="300"/>
+    <img src="images/finalScreenPNG.PNG" width="300"/>
 </kbd>
 
 ## Getting Started
