@@ -2,7 +2,9 @@
 
 This project is a computer game for Desktop, developed in Java. 
 
-<img src="https://github.com/evaHallermeier/ArkanoidGame_Java/tree/main/images/level4.PNG" width="140" height="283"/>
+<kbd>
+  <img src="images/level4.PNG" width="800"/>
+</kbd>
 
 ## Getting Started
 
