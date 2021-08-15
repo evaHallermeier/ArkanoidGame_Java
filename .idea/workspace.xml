@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06d506d3-4530-41f5-b74a-2c033e26de55" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1crdxIygmDbw75lbFlnUzuazcC6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\eva\Documents\java_prog\ass6" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\eva\Documents\java_prog\ass6" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Ass6Game" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ass6Game" />
+      <module name="ass6" />
+      <option name="PROGRAM_PARAMETERS" value=" 4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06d506d3-4530-41f5-b74a-2c033e26de55" name="Default Changelist" comment="" />
+      <created>1591290891378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591290891378</updated>
+      <workItem from="1591290894732" duration="12737000" />
+      <workItem from="1591356708074" duration="803000" />
+      <workItem from="1591465948930" duration="17005000" />
+      <workItem from="1591515778502" duration="13187000" />
+      <workItem from="1591542012072" duration="15171000" />
+      <workItem from="1591702510774" duration="1025000" />
+      <workItem from="1591781956634" duration="33042000" />
+      <workItem from="1591944853251" duration="4781000" />
+      <workItem from="1591965880372" duration="9432000" />
+      <workItem from="1591975647527" duration="110000" />
+      <workItem from="1592071706110" duration="253000" />
+      <workItem from="1592117792354" duration="230000" />
+      <workItem from="1592118044222" duration="4319000" />
+      <workItem from="1592154176089" duration="1232000" />
+      <workItem from="1592206227706" duration="5041000" />
+      <workItem from="1629025658880" duration="1368000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="191" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629026216385">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="191" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1629026216385" />
+    <state x="2334" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720/1920.0.1920.1080@1920.0.1920.1080" timestamp="1629025864239" />
+    <state width="1237" height="19" key="GridCell.Tab.0.bottom" timestamp="1629027588065">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="19" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1629027588065" />
+    <state width="1877" height="19" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.1920.1080@1920.0.1920.1080" timestamp="1629025887865" />
+    <state width="1237" height="19" key="GridCell.Tab.0.center" timestamp="1629027588065">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="19" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1629027588065" />
+    <state width="1877" height="19" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.1920.1080@1920.0.1920.1080" timestamp="1629025887865" />
+    <state width="1237" height="19" key="GridCell.Tab.0.left" timestamp="1629027588049">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="19" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1629027588049" />
+    <state width="1877" height="19" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.1920.1080@1920.0.1920.1080" timestamp="1629025887865" />
+    <state width="1237" height="19" key="GridCell.Tab.0.right" timestamp="1629027588065">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="19" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1629027588065" />
+    <state width="1877" height="19" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.1920.1080@1920.0.1920.1080" timestamp="1629025887865" />
+    <state x="2588" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1629025656130">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2588" y="367" key="com.intellij.ide.util.TipDialog/0.0.1280.720/1920.0.1920.1080@1920.0.1920.1080" timestamp="1629025656130" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="this.ballsRemover.gameLevel" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
