@@ -2,7 +2,7 @@
 
 This project is a computer game for Desktop, developed in Java. 
 
-<img src="https://github.com/evaHallermeier/androidApp-remote-Joystick/blob/master/image/screen.PNG" width="140" height="283"/>
+<img src="https://github.com/evaHallermeier/ArkanoidGame_Java/tree/main/images/finalScreenPNG.P" width="140" height="283"/>
 
 ## Getting Started
 
