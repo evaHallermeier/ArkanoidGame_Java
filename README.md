@@ -9,7 +9,6 @@ This project is a computer game for Desktop, developed in Java.
     <img src="images/level4.PNG" width="400"/> <img src="images/finalScreenPNG.PNG" width="420"/>
 </kbd>
 
-## Getting Started
 
 ## Compiling & Running
 
