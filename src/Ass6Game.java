@@ -1,4 +1,4 @@
-// ID: 337914121
+
 import arkanoid.LevelInformation;
 import arkanoid.LevelOne;
 import arkanoid.LevelTwo;
@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Game of ass6.
+ * Game
  */
 public class Ass6Game {
 
