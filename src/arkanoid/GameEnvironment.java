@@ -1,4 +1,4 @@
-// ID: 337914121
+
 package arkanoid;
 import java.util.ArrayList;
 import java.util.List;
